@@ -140296,7 +140296,7 @@ analytics-*.aasaam.com
 ||rest-app-eu1.fillr.com^$important
 ||ocsp2.apple.com.w.cdngslb.com^$important
 ||45-204-217-211.foay6.dnsidentity.com^$important
-||.
+||.^$important
 @@||v.ejmk123.top^$important
 @@||m.ejmk123.top^$important
 @@||internal.cashappapi.com
