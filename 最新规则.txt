@@ -140325,6 +140325,8 @@ analytics-*.aasaam.com
 ||onedriveclucprodbn20001.blob.core.windows.net^$important
 ||captive.apple.com.w.alikunlun.com^$important
 ||a1864.gi3.akamai.net^$important
+||h-adashx.ut.taobao.com^$important
+||onedriveclucprodbn20027.blob.core.windows.net^$important
 @@||v.ejmk123.top^$important
 @@||m.ejmk123.top^$important
 @@||internal.cashappapi.com
