@@ -140352,6 +140352,8 @@ analytics-*.aasaam.com
 ||inbox.google.com^$important
 ||alt1-mtalk.google.com^$important
 ||geller-pa.googleapis.com^$important
+||whoer.net^$important
+||clients1.google.com^$important
 @@||v.ejmk123.top^$important
 @@||m.ejmk123.top^$important
 @@||internal.cashappapi.com
