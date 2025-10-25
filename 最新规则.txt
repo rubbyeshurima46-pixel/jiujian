@@ -140315,6 +140315,7 @@ analytics-*.aasaam.com
 ||www.textverified.com^$important
 ||maps.googleapis.com^$important
 ||applemapng.qtlcdn.com^$important
+||cl1-cdn.origin-apple.com.akadns.net^$important
 @@||v.ejmk123.top^$important
 @@||m.ejmk123.top^$important
 @@||internal.cashappapi.com
