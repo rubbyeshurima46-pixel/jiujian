@@ -140321,6 +140321,7 @@ analytics-*.aasaam.com
 ||sbwss.ziniao.com^$important
 ||logintcpnv.wps.cn^$important
 ||login.wpscdn.cn^$important
+||edgedl.me.gvt1.com^$important
 @@||v.ejmk123.top^$important
 @@||m.ejmk123.top^$important
 @@||internal.cashappapi.com
