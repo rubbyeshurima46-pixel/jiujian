@@ -140309,6 +140309,10 @@ analytics-*.aasaam.com
 ||ipcdn.apple.com.w.cdngslb.com^$important
 ||courier-ab-vs.push-apple.com.akadns.net^$important
 ||gspe21-maps.qtlcdn.com^$important
+||onedriveclucprodbn20001.blob.core.windows.net^$important
+||github.com^$important
+||api.toutiaoapi.com^$important
+||www.textverified.com^$important
 @@||v.ejmk123.top^$important
 @@||m.ejmk123.top^$important
 @@||internal.cashappapi.com
