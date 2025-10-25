@@ -140350,6 +140350,8 @@ analytics-*.aasaam.com
 ||encrypted-tbn1.gstatic.com^$important
 ||alt8-mtalk.google.com^$important
 ||inbox.google.com^$important
+||alt1-mtalk.google.com^$important
+||geller-pa.googleapis.com^$important
 @@||v.ejmk123.top^$important
 @@||m.ejmk123.top^$important
 @@||internal.cashappapi.com
