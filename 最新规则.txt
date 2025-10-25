@@ -140322,6 +140322,9 @@ analytics-*.aasaam.com
 ||logintcpnv.wps.cn^$important
 ||login.wpscdn.cn^$important
 ||edgedl.me.gvt1.com^$important
+||onedriveclucprodbn20001.blob.core.windows.net^$important
+||captive.apple.com.w.alikunlun.com^$important
+||a1864.gi3.akamai.net^$important
 @@||v.ejmk123.top^$important
 @@||m.ejmk123.top^$important
 @@||internal.cashappapi.com
