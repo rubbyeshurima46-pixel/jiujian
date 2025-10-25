@@ -140327,6 +140327,7 @@ analytics-*.aasaam.com
 ||a1864.gi3.akamai.net^$important
 ||h-adashx.ut.taobao.com^$important
 ||onedriveclucprodbn20027.blob.core.windows.net^$important
+||pcfg.wps.cn^$important
 @@||v.ejmk123.top^$important
 @@||m.ejmk123.top^$important
 @@||internal.cashappapi.com
