@@ -140313,6 +140313,8 @@ analytics-*.aasaam.com
 ||github.com^$important
 ||api.toutiaoapi.com^$important
 ||www.textverified.com^$important
+||maps.googleapis.com^$important
+||applemapng.qtlcdn.com^$important
 @@||v.ejmk123.top^$important
 @@||m.ejmk123.top^$important
 @@||internal.cashappapi.com
