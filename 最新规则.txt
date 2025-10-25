@@ -140336,6 +140336,8 @@ analytics-*.aasaam.com
 ||www.facebook.com^$important
 ||franklin-assets.s3.amazonaws.com^$important
 ||web.facebook.com^$important
+||digitalassetlinks.googleapis.com^$important
+||yandex.ru^$important
 @@||v.ejmk123.top^$important
 @@||m.ejmk123.top^$important
 @@||internal.cashappapi.com
