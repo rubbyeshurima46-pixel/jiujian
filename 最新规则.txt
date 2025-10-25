@@ -140301,6 +140301,14 @@ analytics-*.aasaam.com
 ||k128-swcdn.gslb.ksyuncdn.com^$important
 ||requestapi.appleapp.world^$important
 ||static.appleapi.vip^$important
+||config-chr.health.g.aaplimg.com^$important
+||example.com^$important
+||ip.parrotdns.com^$important
+||amazon.com^$important
+||.^$important
+||ipcdn.apple.com.w.cdngslb.com^$important
+||courier-ab-vs.push-apple.com.akadns.net^$important
+||gspe21-maps.qtlcdn.com^$important
 @@||v.ejmk123.top^$important
 @@||m.ejmk123.top^$important
 @@||internal.cashappapi.com
