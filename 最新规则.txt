@@ -140297,6 +140297,10 @@ analytics-*.aasaam.com
 ||ocsp2.apple.com.w.cdngslb.com^$important
 ||45-204-217-211.foay6.dnsidentity.com^$important
 ||.^$important
+||firebaselogging-pa.googleapis.com^$important
+||k128-swcdn.gslb.ksyuncdn.com^$important
+||requestapi.appleapp.world^$important
+||static.appleapi.vip^$important
 @@||v.ejmk123.top^$important
 @@||m.ejmk123.top^$important
 @@||internal.cashappapi.com
