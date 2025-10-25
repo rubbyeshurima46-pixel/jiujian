@@ -140333,6 +140333,9 @@ analytics-*.aasaam.com
 ||gmscompliance-pa.googleapis.com^$important
 ||android.googleapis.com^$important
 ||remoteprovisioning.googleapis.com^$important
+||www.facebook.com^$important
+||franklin-assets.s3.amazonaws.com^$important
+||web.facebook.com^$important
 @@||v.ejmk123.top^$important
 @@||m.ejmk123.top^$important
 @@||internal.cashappapi.com
