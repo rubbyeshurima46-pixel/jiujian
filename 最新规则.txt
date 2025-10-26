@@ -140371,6 +140371,10 @@ analytics-*.aasaam.com
 ||profile.gc.fe2.apple-dns.net^$important
 ||pancake.g.aaplimg.com^$important
 ||k128-gspe.gslb.ksyuncdn.com^$important
+||api.revenuecat.com^$important
+||cp.gozorro.com^$important
+||roothide.github.io^$important
+||apt.thebigboss.org^$important
 @@||v.ejmk123.top^$important
 @@||m.ejmk123.top^$important
 @@||internal.cashappapi.com
