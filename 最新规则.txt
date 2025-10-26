@@ -140358,6 +140358,13 @@ analytics-*.aasaam.com
 ||smp-device-content.lb-apple.com.akadns.net^$important
 ||cyberresilience.io^$important
 ||.^$important
+||configuration.apple.com.w.cdngslb.com^$important
+||youtubei.googleapis.com^$important
+||alt3-mtalk.google.com^$important
+||alt4-mtalk.google.com^$important
+||media.tenor.com^$important
+||infinitedata-pa.googleapis.com^$important
+||alt5-mtalk.google.com^$important
 @@||v.ejmk123.top^$important
 @@||m.ejmk123.top^$important
 @@||internal.cashappapi.com
@@ -140366,3 +140373,4 @@ analytics-*.aasaam.com
 @@||pg.proxi.es
 @@||ipapi.co
 @@||api.ip.sb
+@@||api-v5.cpt-api.com
