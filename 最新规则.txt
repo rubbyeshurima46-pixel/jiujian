@@ -140375,6 +140375,10 @@ analytics-*.aasaam.com
 ||cp.gozorro.com^$important
 ||roothide.github.io^$important
 ||apt.thebigboss.org^$important
+||45-204-217-211.9jy3m.dnsidentity.com^$important
+||comm-main.ess-apple.com.akadns.net^$important
+||comm-cohort.ess-apple.com.akadns.net^$important
+||a.root-servers.net^$important
 @@||v.ejmk123.top^$important
 @@||m.ejmk123.top^$important
 @@||internal.cashappapi.com
