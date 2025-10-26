@@ -140379,6 +140379,10 @@ analytics-*.aasaam.com
 ||comm-main.ess-apple.com.akadns.net^$important
 ||comm-cohort.ess-apple.com.akadns.net^$important
 ||a.root-servers.net^$important
+||clients1.google.com^$important
+||d2d9g3lnt860w6.cloudfront.net^$important
+||d2ib8ebwyn2xje.cloudfront.net^$important
+||whoer.net^$important
 @@||v.ejmk123.top^$important
 @@||m.ejmk123.top^$important
 @@||internal.cashappapi.com
