@@ -140365,6 +140365,12 @@ analytics-*.aasaam.com
 ||media.tenor.com^$important
 ||infinitedata-pa.googleapis.com^$important
 ||alt5-mtalk.google.com^$important
+||ipcdn-lb.apple.com.akadns.net^$important
+||ipcdn.g.aaplimg.com^$important
+||.^$important
+||profile.gc.fe2.apple-dns.net^$important
+||pancake.g.aaplimg.com^$important
+||k128-gspe.gslb.ksyuncdn.com^$important
 @@||v.ejmk123.top^$important
 @@||m.ejmk123.top^$important
 @@||internal.cashappapi.com
