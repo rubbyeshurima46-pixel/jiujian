@@ -140356,6 +140356,8 @@ analytics-*.aasaam.com
 ||clients1.google.com^$important
 ||smp-device-content.g.aaplimg.com^$important
 ||smp-device-content.lb-apple.com.akadns.net^$important
+||cyberresilience.io^$important
+||.^$important
 @@||v.ejmk123.top^$important
 @@||m.ejmk123.top^$important
 @@||internal.cashappapi.com
