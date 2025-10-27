@@ -140384,6 +140384,13 @@ analytics-*.aasaam.com
 ||d2ib8ebwyn2xje.cloudfront.net^$important
 ||whoer.net^$important
 ||google.com^$important
+||whoer.net^$important
+||clients1.google.com^$important
+||d2d9g3lnt860w6.cloudfront.net^$important
+||d2ib8ebwyn2xje.cloudfront.net^$important
+||google.com^$important
+||mesu.g.aaplimg.com^$important
+||mesu-cdn.apple.com.akadns.net^$important
 @@||v.ejmk123.top^$important
 @@||m.ejmk123.top^$important
 @@||internal.cashappapi.com
