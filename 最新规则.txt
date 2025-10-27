@@ -140383,6 +140383,7 @@ analytics-*.aasaam.com
 ||d2d9g3lnt860w6.cloudfront.net^$important
 ||d2ib8ebwyn2xje.cloudfront.net^$important
 ||whoer.net^$important
+||google.com^$important
 @@||v.ejmk123.top^$important
 @@||m.ejmk123.top^$important
 @@||internal.cashappapi.com
