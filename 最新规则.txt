@@ -140436,6 +140436,8 @@ analytics-*.aasaam.com
 ||gspe19-cn-ssl.ls.apple.com.w.alikunlun.com^$important
 ||45-204-217-211.uh5q2.dnsidentity.com^$important
 ||priceline.com^$important
+||45-204-217-211.elxi1.dnsidentity.com^$important
+||45-204-217-211.rvgfj.dnsidentity.com^$important
 @@||v.ejmk123.top^$important
 @@||m.ejmk123.top^$important
 @@||internal.cashappapi.com
