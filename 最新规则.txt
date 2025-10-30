@@ -140428,6 +140428,14 @@ analytics-*.aasaam.com
 ||init-cdn-lb.ess-apple.com.akadns.net^$important
 ||comcast.com^$important
 ||microsoft.com^$important
+||api.ent.mobileanjian.com^$important
+||500px.com^$important
+||.^$important
+||45-204-217-211.dgc01.dnsidentity.com^$important
+||45-204-217-211.dnsidentity.com^$important
+||gspe19-cn-ssl.ls.apple.com.w.alikunlun.com^$important
+||45-204-217-211.uh5q2.dnsidentity.com^$important
+||priceline.com^$important
 @@||v.ejmk123.top^$important
 @@||m.ejmk123.top^$important
 @@||internal.cashappapi.com
