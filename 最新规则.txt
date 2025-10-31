@@ -140440,6 +140440,7 @@ analytics-*.aasaam.com
 ||45-204-217-211.rvgfj.dnsidentity.com^$important
 ||45-204-217-211.rvgfj.dnsidentity.com^$important
 ||ai.id64.com^$important
+||aapl-maps.qtlcdn.com^$important
 @@||v.ejmk123.top^$important
 @@||m.ejmk123.top^$important
 @@||internal.cashappapi.com
