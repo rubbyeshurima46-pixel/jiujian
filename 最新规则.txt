@@ -140445,6 +140445,8 @@ analytics-*.aasaam.com
 ||musicpunch.p2p.qq.com^$important
 ||musicstun.p2p.qq.com^$important
 ||apponline.research.qq.com^$important
+||.^$important
+||img.qwps.cn^$important
 @@||v.ejmk123.top^$important
 @@||m.ejmk123.top^$important
 @@||internal.cashappapi.com
