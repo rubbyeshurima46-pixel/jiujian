@@ -140461,6 +140461,9 @@ analytics-*.aasaam.com
 ||gsp85-ssl.ls2-apple.com.akadns.net^$important
 ||a1-s.i4.cn^$important
 ||cf.iadsdk.apple.com.w.cdngslb.com^$important
+||vweixinthumb.tc.qq.com^$important
+||83653446.penetrate.sept.work^$important
+||gsas.idms-apple.com.akadns.net^$important
 @@||v.ejmk123.top^$important
 @@||m.ejmk123.top^$important
 @@||internal.cashappapi.com
