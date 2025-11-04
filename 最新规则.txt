@@ -140522,6 +140522,7 @@ analytics-*.aasaam.com
 ||membercardupdate.plus.nikecloud.com^$important
 ||www.security.mobile.ctrip.com^$important
 ||mobile-api2011.elong.com^$important
+||.^$important
 @@||v.ejmk123.top^$important
 @@||m.ejmk123.top^$important
 @@||internal.cashappapi.com
