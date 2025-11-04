@@ -140539,6 +140539,17 @@ analytics-*.aasaam.com
 ||xxaaaaa.oss-cn-beijing.aliyuncs.com^$important
 ||dynamic.t0.tiles.ditu.live.com^$important
 ||admin.penetrate.sept.work^$important
+||wns2-sg2p.wns.windows.com^$important
+||ocsp.rootca1.amazontrust.com^$important
+||ocsp.rootca1.amazontrust.com^$client='182.107.144.89'
+||client.relay.crisp.chat^$important
+||admin.penetrate.sept.work^$important
+||domain.thorzip.muxin.fun^$important
+||res.mobileanjian.com^$important
+||bb.line666.cn^$important
+||bb.line666.cn^$client='182.107.144.89'
+||g.live.com^$important
+||js.intercomcdn.com^$important
 @@||v.ejmk123.top^$important
 @@||m.ejmk123.top^$important
 @@||internal.cashappapi.com
