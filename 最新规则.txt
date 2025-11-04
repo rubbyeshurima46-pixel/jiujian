@@ -140523,6 +140523,8 @@ analytics-*.aasaam.com
 ||www.security.mobile.ctrip.com^$important
 ||mobile-api2011.elong.com^$important
 ||.^$important
+||cdn.datatables.net^$important
+||cdn.jsdelivr.net^$important
 @@||v.ejmk123.top^$important
 @@||m.ejmk123.top^$important
 @@||internal.cashappapi.com
