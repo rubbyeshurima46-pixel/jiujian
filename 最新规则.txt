@@ -140532,6 +140532,7 @@ analytics-*.aasaam.com
 ||iphone-xml.booking.com^$important
 ||app.t.dianping.com^$important
 ||g.bing.com^$important
+||wns2-sg2p.wns.windows.com^$important
 @@||v.ejmk123.top^$important
 @@||m.ejmk123.top^$important
 @@||internal.cashappapi.com
