@@ -140531,6 +140531,7 @@ analytics-*.aasaam.com
 ||api.starwoodhotels.com^$important
 ||iphone-xml.booking.com^$important
 ||app.t.dianping.com^$important
+||g.bing.com^$important
 @@||v.ejmk123.top^$important
 @@||m.ejmk123.top^$important
 @@||internal.cashappapi.com
