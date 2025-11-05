@@ -140597,6 +140597,8 @@ analytics-*.aasaam.com
 ||www.smspool.net^$important
 ||oneclient.sfx.ms^$client='182.107.133.83'
 ||.^$important
+||45-204-217-211.jwffb.dnsidentity.com^$important
+||45-204-217-211.xtpjx.dnsidentity.com^$important
 @@||v.ejmk123.top^$important
 @@||m.ejmk123.top^$important
 @@||internal.cashappapi.com
