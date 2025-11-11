@@ -140659,6 +140659,10 @@ analytics-*.aasaam.com
 ||stun.ugreengroup.com^$important
 ||res.cdn.office.net^$important
 ||res.public.onecdn.static.microsoft^$important
+||1762874517.0.sngdia.imtmp.net^$important
+||lqtqk.2dccd9d3.0.v4.isavscan.xyz^$important
+||ltvzv.2dccd9d3.1.v4.isavscan.xyz^$important
+||geo-location-finder.logitech.com^$important
 @@||v.ejmk123.top^$important
 @@||m.ejmk123.top^$important
 @@||internal.cashappapi.com
