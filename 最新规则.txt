@@ -140663,6 +140663,8 @@ analytics-*.aasaam.com
 ||lqtqk.2dccd9d3.0.v4.isavscan.xyz^$important
 ||ltvzv.2dccd9d3.1.v4.isavscan.xyz^$important
 ||geo-location-finder.logitech.com^$important
+||mynumberservice.com^$important
+||45-204-217-211.fsy6j.dnsidentity.com^$important
 @@||v.ejmk123.top^$important
 @@||m.ejmk123.top^$important
 @@||internal.cashappapi.com
