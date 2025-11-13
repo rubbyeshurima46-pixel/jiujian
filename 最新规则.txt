@@ -140697,6 +140697,10 @@ analytics-*.aasaam.com
 ||stun.ugreengroup.com^$important
 ||res.cdn.office.net^$important
 ||res.public.onecdn.static.microsoft^$important
+||e.tstng.net^$important
+||tstng.net^$important
+||cloudauth-device-dualstack.ap-southeast-1.aliyuncs.com^$important
+||o.alicdn.com^$important
 @@||v.ejmk123.top^$important
 @@||m.ejmk123.top^$important
 @@||internal.cashappapi.com
