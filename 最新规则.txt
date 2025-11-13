@@ -140702,6 +140702,10 @@ analytics-*.aasaam.com
 ||cloudauth-device-dualstack.ap-southeast-1.aliyuncs.com^$important
 ||o.alicdn.com^$important
 ||stackoverflow.com^$important
+||supportmetrics.v.aaplimg.com^$important
+||e6858.e19.s.tl88.net^$important
+||ab.apple.com.akadns.net^$important
+||e3925.dscg.akamaiedge.net^$important
 @@||v.ejmk123.top^$important
 @@||m.ejmk123.top^$important
 @@||internal.cashappapi.com
