@@ -140706,6 +140706,9 @@ analytics-*.aasaam.com
 ||e6858.e19.s.tl88.net^$important
 ||ab.apple.com.akadns.net^$important
 ||e3925.dscg.akamaiedge.net^$important
+||www.360.cn^$important
+||config-pdf-cdn.sogou-pdf.com^$important
+||cs3-upgrade-compress-srv.sogou-compress.com^$important
 @@||v.ejmk123.top^$important
 @@||m.ejmk123.top^$important
 @@||internal.cashappapi.com
@@ -140721,3 +140724,4 @@ analytics-*.aasaam.com
 @@||iosqk.ieasytest.net^$important
 @@||iosqk.ieasyclick.net^$important
 @@||m.ejmk123.top.a1.initzz.com^$important
+@@||v.ejmk123.top.a1.initzz.com^$important
