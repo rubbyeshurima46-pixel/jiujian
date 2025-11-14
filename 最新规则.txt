@@ -140709,6 +140709,12 @@ analytics-*.aasaam.com
 ||www.360.cn^$important
 ||config-pdf-cdn.sogou-pdf.com^$important
 ||cs3-upgrade-compress-srv.sogou-compress.com^$important
+||time.windows.com^$important
+||www.360.cn^$important
+||clients2.googleusercontent.com^$important
+||honeycomb-plugins-3.wpscdn.cn^$important
+||update2.wps.cn^$important
+||baid.913pc.com^$important
 @@||v.ejmk123.top^$important
 @@||m.ejmk123.top^$important
 @@||internal.cashappapi.com
