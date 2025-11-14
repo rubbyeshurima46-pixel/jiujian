@@ -140715,6 +140715,13 @@ analytics-*.aasaam.com
 ||honeycomb-plugins-3.wpscdn.cn^$important
 ||update2.wps.cn^$important
 ||baid.913pc.com^$important
+||www.360.cn^$important
+||config-pdf-cdn.sogou-pdf.com^$important
+||cs3-upgrade-compress-srv.sogou-compress.com^$important
+||ping.kwps.cn^$important
+||encrypted-tbn2.gstatic.com^$important
+||t1.gstatic.com^$important
+||castle.shzhanmeng.com^$important
 @@||v.ejmk123.top^$important
 @@||m.ejmk123.top^$important
 @@||internal.cashappapi.com
