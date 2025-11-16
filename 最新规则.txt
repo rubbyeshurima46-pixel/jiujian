@@ -140722,6 +140722,11 @@ analytics-*.aasaam.com
 ||encrypted-tbn2.gstatic.com^$important
 ||t1.gstatic.com^$important
 ||castle.shzhanmeng.com^$important
+||lb._dns-sd._udp.0.96.16.172.in-addr.arpa^$important
+||lb._dns-sd._udp.0.97.16.172.in-addr.arpa^$important
+||lb._dns-sd._udp.0.98.16.172.in-addr.arpa^$important
+||lb._dns-sd._udp.0.99.16.172.in-addr.arpa^$important
+||lb._dns-sd._udp.0.100.16.172.in-addr.arpa^$important
 @@||v.ejmk123.top^$important
 @@||m.ejmk123.top^$important
 @@||internal.cashappapi.com
