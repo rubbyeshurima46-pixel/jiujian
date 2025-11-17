@@ -140743,3 +140743,11 @@ analytics-*.aasaam.com
 @@||iosqk.ieasyclick.net^$important
 @@||m.ejmk123.top.a1.initzz.com^$important
 @@||v.ejmk123.top.a1.initzz.com^$important
+@@||ping.kwps.cn^$important
+@@||storage.kuaifaka.net^$important
+@@||api.kuaifaka.net^$important
+@@||cdn.ronghub.com^$important
+@@||www.kuaifaka.net^$important
+@@||refreshus2.rola.info^$important
+@@||stun.miwifi.com^$important
+@@||www.textverified.com^$important
