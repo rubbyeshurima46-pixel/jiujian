@@ -140727,6 +140727,10 @@ analytics-*.aasaam.com
 ||lb._dns-sd._udp.0.98.16.172.in-addr.arpa^$important
 ||lb._dns-sd._udp.0.99.16.172.in-addr.arpa^$important
 ||lb._dns-sd._udp.0.100.16.172.in-addr.arpa^$important
+||cdn.smoot.g.aaplimg.com^$important
+||cs3-upgrade-compress-srv.sogou-compress.com^$important
+||hbtbank.com^$important
+||cisco.com^$important
 @@||v.ejmk123.top^$important
 @@||m.ejmk123.top^$important
 @@||internal.cashappapi.com
