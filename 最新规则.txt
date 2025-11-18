@@ -140731,6 +140731,10 @@ analytics-*.aasaam.com
 ||cs3-upgrade-compress-srv.sogou-compress.com^$important
 ||hbtbank.com^$important
 ||cisco.com^$important
+||org^$important
+||.^$important
+||132.0.107.118.in-addr.arpa^$important
+@@||ip.sb^$important
 @@||v.ejmk123.top^$important
 @@||m.ejmk123.top^$important
 @@||internal.cashappapi.com
