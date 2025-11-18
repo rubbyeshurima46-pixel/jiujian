@@ -140736,6 +140736,8 @@ analytics-*.aasaam.com
 ||132.0.107.118.in-addr.arpa^$important
 ||hoiuore26uxf2.proud.dnscheck.internet-measurement.com^$important
 ||bradesco.com.br^$important
+||sikelocci.com^$important
+||.^$important
 @@||uc.kuai.js.cn^$important
 @@||ip.sb^$important
 @@||v.ejmk123.top^$important
