@@ -140738,6 +140738,9 @@ analytics-*.aasaam.com
 ||bradesco.com.br^$important
 ||sikelocci.com^$important
 ||.^$important
+||g.globo^$important
+||www.taobao.cn^$important
+||118-107-0-132.iurmh.dnsidentity.com^$important
 @@||uc.kuai.js.cn^$important
 @@||ip.sb^$important
 @@||v.ejmk123.top^$important
