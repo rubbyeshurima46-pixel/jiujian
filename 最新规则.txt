@@ -140741,6 +140741,9 @@ analytics-*.aasaam.com
 ||g.globo^$important
 ||www.taobao.cn^$important
 ||118-107-0-132.iurmh.dnsidentity.com^$important
+||93.1986723972.2025-11-17.odns.m.dnsmeasure.top^$important
+||74.1986723972.2025-11-17.odns.m.dnsmeasure.top^$important
+||.^$important
 @@||uc.kuai.js.cn^$important
 @@||ip.sb^$important
 @@||v.ejmk123.top^$important
