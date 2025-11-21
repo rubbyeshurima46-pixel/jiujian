@@ -140783,6 +140783,11 @@ analytics-*.aasaam.com
 ||47.1986723972.2025-11-17.odns.m.dnsmeasure.top^$important
 ||30.1986723972.2025-11-17.odns.m.dnsmeasure.top^$important
 ||atlassian.com^$important
+||ied-tqos-tgp.qq.com^$important
+||msfwifiv6.3g.qq.com^$important
+||gjju.domestic.edgeddosuvfd.com.sec-a.initqq.com^$important
+||rkuv.overseas.edgeddosoyjy.com.sec-a.initrr.com^$important
+||ip-api.com^$important
 @@||m.ejmk123.top.eo.dnse3.com^$important
 @@||uc.kuai.js.cn^$important
 @@||ip.sb^$important
