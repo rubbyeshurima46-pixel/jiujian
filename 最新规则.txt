@@ -140775,6 +140775,15 @@ analytics-*.aasaam.com
 ||oogrhnuinhdjov.wikitelecom.br^$important
 ||qq.com^$important
 ||teioqpfoashtrjo.wikitelecom.br^$important
+||.^$important
+||assets-mercury.v.aaplimg.com^$important
+||assets-mercury.mzstatic.com^$important
+||expbxpnxhg7fw.fulfilled.dnscheck.internet-measurement.com^$important
+||aaa.stage.whatever^$important
+||47.1986723972.2025-11-17.odns.m.dnsmeasure.top^$important
+||30.1986723972.2025-11-17.odns.m.dnsmeasure.top^$important
+||atlassian.com^$important
+@@||m.ejmk123.top.eo.dnse3.com^$important
 @@||uc.kuai.js.cn^$important
 @@||ip.sb^$important
 @@||v.ejmk123.top^$important
