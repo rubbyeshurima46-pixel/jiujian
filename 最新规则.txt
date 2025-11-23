@@ -140788,6 +140788,14 @@ analytics-*.aasaam.com
 ||gjju.domestic.edgeddosuvfd.com.sec-a.initqq.com^$important
 ||rkuv.overseas.edgeddosoyjy.com.sec-a.initrr.com^$important
 ||ip-api.com^$important
+||ied-tqos-tgp.qq.com^$important
+||msfwifiv6.3g.qq.com^$important
+||gjju.domestic.edgeddosuvfd.com.sec-a.initqq.com^$important
+||rkuv.overseas.edgeddosoyjy.com.sec-a.initrr.com^$important
+||ip-api.com^$important
+||api.miwifi.com^$important
+||tool.lu^$important
+||2vie3p42juize.graceful.dnscheck.internet-measurement.com^$important
 @@||m.ejmk123.top.eo.dnse3.com^$important
 @@||uc.kuai.js.cn^$important
 @@||ip.sb^$important
