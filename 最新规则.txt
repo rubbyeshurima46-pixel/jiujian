@@ -140796,6 +140796,7 @@ analytics-*.aasaam.com
 ||api.miwifi.com^$important
 ||tool.lu^$important
 ||2vie3p42juize.graceful.dnscheck.internet-measurement.com^$important
+||version.server^$important
 @@||m.ejmk123.top.eo.dnse3.com^$important
 @@||uc.kuai.js.cn^$important
 @@||ip.sb^$important
