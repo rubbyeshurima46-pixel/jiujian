@@ -140799,6 +140799,7 @@ analytics-*.aasaam.com
 ||version.server^$important
 ||118.107.0.132.1763982000.main.research.openresolve.rs^$important
 ||qdidcyitrluma.purposeful.dnscheck.internet-measurement.com^$important
+||.^$important
 @@||m.ejmk123.top.eo.dnse3.com^$important
 @@||uc.kuai.js.cn^$important
 @@||ip.sb^$important
