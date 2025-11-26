@@ -140802,6 +140802,16 @@ analytics-*.aasaam.com
 ||.^$important
 ||neeca.net^$important
 ||.^$important
+||ied-tqos-tgp.qq.com^$important
+||msfwifiv6.3g.qq.com^$important
+||gjju.domestic.edgeddosuvfd.com.sec-a.initqq.com^$important
+||rkuv.overseas.edgeddosoyjy.com.sec-a.initrr.com^$important
+||ip-api.com^$important
+||api.miwifi.com^$important
+||www.instagram.com^$important
+||web-chat-e2ee.instagram.com^$important
+||edge-chat.facebook.com^$important
+||edge-chat.instagram.com^$important
 @@||m.ejmk123.top.eo.dnse3.com^$important
 @@||uc.kuai.js.cn^$important
 @@||ip.sb^$important
