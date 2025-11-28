@@ -140814,6 +140814,9 @@ analytics-*.aasaam.com
 ||edge-chat.instagram.com^$important
 ||ezr8.com^$important
 ||.^$important
+||.^$important
+||ipmi.yandex.net^$important
+||yndx.net^$important
 @@||m.ejmk123.top.eo.dnse3.com^$important
 @@||uc.kuai.js.cn^$important
 @@||ip.sb^$important
