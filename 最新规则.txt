@@ -140817,6 +140817,8 @@ analytics-*.aasaam.com
 ||.^$important
 ||ipmi.yandex.net^$important
 ||yndx.net^$important
+||vlxmaelosw5me.accurate.dnscheck.internet-measurement.com^$important
+||.^$important
 @@||m.ejmk123.top.eo.dnse3.com^$important
 @@||uc.kuai.js.cn^$important
 @@||ip.sb^$important
