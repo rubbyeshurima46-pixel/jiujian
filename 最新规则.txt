@@ -140822,6 +140822,8 @@ analytics-*.aasaam.com
 ||inanis.asertdnsresearch.com^$important
 ||rr-mirror.research.nawrocki.berlin^$important
 ||.^$important
+||vpnv.shop^$important
+||baidu.com^$important
 @@||m.ejmk123.top.eo.dnse3.com^$important
 @@||uc.kuai.js.cn^$important
 @@||ip.sb^$important
