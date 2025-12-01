@@ -140825,6 +140825,8 @@ analytics-*.aasaam.com
 ||vpnv.shop^$important
 ||baidu.com^$important
 ||1986723972.round2025-12-01.odns.m.dnsmeasure.top^$important
+||rzmky.766b0084.1.v4.isavscan.xyz^$important
+||pfupk.766b0084.0.v4.isavscan.xyz^$important
 @@||m.ejmk123.top.eo.dnse3.com^$important
 @@||uc.kuai.js.cn^$important
 @@||ip.sb^$important
