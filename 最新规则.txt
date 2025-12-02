@@ -140833,6 +140833,8 @@ analytics-*.aasaam.com
 ||www.cybergreen.net^$important
 ||118.107.0.132.1764586800.main.research.openresolve.rs^$important
 ||gjrd3hslzmup4.imaginative.dnscheck.internet-measurement.com^$important
+||163.com^$important
+||92.1986723972.2025-12-01.odns.m.dnsmeasure.top^$important
 @@||m.ejmk123.top.eo.dnse3.com^$important
 @@||uc.kuai.js.cn^$important
 @@||ip.sb^$important
