@@ -140967,6 +140967,16 @@ analytics-*.aasaam.com
 ||dig-edge-perf.byte008.com^$important
 ||lv-api-sinfonlineb.ulikecam.com.bytedns1.com^$important
 ||gplog.zijieapi.com^$important
+||mmbiz.mid.tdnsv6.com^$important
+||mmbiz.qpic.cn.sched.legopic1-dk.tdnsv6.com^$important
+||ke-gz.alb.ntes53.netease.com^$important
+||open-cms-api.quark.cn^$important
+||gplog.zijieapi.com.bytedns3.com^$important
+||lv-api-sinfonlineb.ulikecam.com.230b2a2545cfa773.w.cdngslb.com^$important
+||ikki.youdao.com^$important
+||static.geetest.com^$important
+||gcaptcha4.geetest.com^$important
+||api.mumu.nie.netease.com^$important
 @@||ip.sb^$important
 @@||m.ejmk123.top^$important
 @@||internal.cashappapi.com
