@@ -140958,6 +140958,15 @@ analytics-*.aasaam.com
 ||fxg.jinritemai.com.51296c5e.c.cdnhwc2.com^$important
 ||hcdndyn.zjtd05.v6.c.cdnhwc2.com^$important
 ||pigeon.jinritemai.com.w.cdngslb.com^$important
+||settings-prod-cin-2.centralindia.cloudapp.azure.com^$important
+||pigeon.jinritemai.com.queniukw.com^$important
+||atm-settingsfe-prod-geo2.trafficmanager.net^$important
+||honeycomb-emergency.wpscdn.cn.download.ks-cdn.com^$important
+||lf3-cm.ecombdstatic.com.bytedns1.com^$important
+||l11-ipv6.gslb.ksyuncdn.com^$important
+||dig-edge-perf.byte008.com^$important
+||lv-api-sinfonlineb.ulikecam.com.bytedns1.com^$important
+||gplog.zijieapi.com^$important
 @@||ip.sb^$important
 @@||m.ejmk123.top^$important
 @@||internal.cashappapi.com
