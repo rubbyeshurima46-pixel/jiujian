@@ -140977,6 +140977,16 @@ analytics-*.aasaam.com
 ||static.geetest.com^$important
 ||gcaptcha4.geetest.com^$important
 ||api.mumu.nie.netease.com^$important
+||static.geevisit.com^$important
+||gcaptcha4.geevisit.com^$important
+||lv-pc-api-lf.ulikecam.com.queniurc.com^$important
+||lv-pc-api-lf.ulikecam.com.w.cdngslb.com^$important
+||ikki.youdao.com^$important
+||api-overmind.youdao.com^$important
+||hcdndyn.zjtd05.v4.c.cdnhwc2.com^$important
+||pigeon.jinritemai.com.51296c5e.c.cdnhwc1.com^$important
+||static.geetest.com^$important
+||gcaptcha4.geetest.com^$important
 @@||ip.sb^$important
 @@||m.ejmk123.top^$important
 @@||internal.cashappapi.com
