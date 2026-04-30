@@ -140987,6 +140987,8 @@ analytics-*.aasaam.com
 ||pigeon.jinritemai.com.51296c5e.c.cdnhwc1.com^$important
 ||static.geetest.com^$important
 ||gcaptcha4.geetest.com^$important
+||tron.jiyunhudong.com.w.cdngslb.com^$important
+||tron.jiyunhudong.com.bytedns1.com^$important
 @@||ip.sb^$important
 @@||m.ejmk123.top^$important
 @@||internal.cashappapi.com
